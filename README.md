@@ -1,8 +1,8 @@
 # One-Line Laugh Sprint — make.fun entry
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun)
-[![make.fun bounty](https://make.fun/badge-bounty.svg)](https://make.fun/c/u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
-[![make.fun entry](https://make.fun/badge-entry.svg)](https://make.fun/c/u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
+[![make.fun · u-daring-gecko-25-one-line-laugh-sprint-cda708b2](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/xomgenit/one-line-laugh-sprint-makefun/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/xomgenit/one-line-laugh-sprint-makefun/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
 
 Entry for the [One-Line Laugh Sprint](https://make.fun/c/u-daring-gecko-25-one-line-laugh-sprint-cda708b2) bounty on make.fun — one original line, at most 200 characters, a light funny take on everyday life.
 
