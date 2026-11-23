@@ -10,7 +10,7 @@ Entry for the [One-Line Laugh Sprint](https://make.fun/c/u-daring-gecko-25-one-l
 
 > I bought a standing desk to be healthier, so now I sit on a taller chair.
 
-75 characters. The twist pays off on the last word: the desk meant to get me standing just got me a taller chair.
+73 characters. The twist pays off on the last word: the desk meant to get me standing just got me a taller chair.
 
 ## How it works
 
